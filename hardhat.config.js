@@ -22,7 +22,7 @@ module.exports = {
     },
   },
   gasReporter: {
-    enabled: false,
+    enabled: true,
     showMethodSig: true,
     showTimeSpent: true
   }
